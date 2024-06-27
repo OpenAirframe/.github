@@ -1,4 +1,4 @@
-# Open AirFrame
+# Open Airframe
 
 ## Fast - Opinionated - Reliable
 
