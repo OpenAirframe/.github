@@ -1,4 +1,4 @@
-# Open Airframe
+# Airframe
 
 ## Fast - Opinionated - Reliable
 
